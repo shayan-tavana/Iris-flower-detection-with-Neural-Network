@@ -1,4 +1,3 @@
-Here's a suggested README text for your Iris flower classification project on GitHub:
 
 ```markdown
 # Iris Flower Classification with Neural Network
